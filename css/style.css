@@ -1,0 +1,39 @@
+h1{
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+button{
+width: 100px;
+height: 50px;
+background-color:	rgb(255, 179, 153)  !important;
+font-size: 12px !important;
+}		
+.contain{
+    background-image: url(../images/w11.jpg);
+    background-size: 100% 100%;
+    background-position: center center;
+    height: 100vh;
+}
+.layer{
+    background-image: url(../images/images1.jpg);
+    background-size: 100% 100%;
+    background-position: center center;
+    height: 500px;
+    width: 500px;
+    border-radius: 10%;
+    color: white; 
+}
+p{
+    font-weight: 800;
+    font-size:25PX;
+}
+#name{
+    text-align: right;
+}
+button{
+    margin-top: 200px !important;
+}
+#quote{
+    height: 120px;
+}
+
